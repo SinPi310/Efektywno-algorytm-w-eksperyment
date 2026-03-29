@@ -4,8 +4,8 @@ using BenchmarkDotNet.Attributes;
 [MemoryDiagnoser]
 public class SortingBenchmarks
 {
-    // Testujemy dla 100, 1000 i 5000 elementów
-    [Params(100, 1000, 5000)]
+    // Testujemy dla 10, 1000 i 100000 elementów
+    [Params(10, 1000, 100000)]
     public int N;
 
     private int[] _unsortedData;
