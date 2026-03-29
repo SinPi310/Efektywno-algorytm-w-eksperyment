@@ -24,6 +24,7 @@ Przyjmij, że sortowane rosnąco będą tablice liczb całkowitych (typ `int`) s
 
 
 ## Wyniki pomiarów
-* tablice q
+**Tablice pobrane z visuala**
 
 ## Wnioski
+**Napisac wnioski na podstawie wynikow**
