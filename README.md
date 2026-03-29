@@ -1,4 +1,4 @@
-# Zadanie: Efektywnosc-algorytow---eksperyment
+# Zadanie: Efektywność algorytów - eksperyment
 
 Projekt to badanie empiryczne (doświadczalne) efektywności 3 klasycznych algorytmów sortowania:
 ## Badane algorytmy
