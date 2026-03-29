@@ -1,7 +1,6 @@
-# Efektywno-algorytm-w-eksperyment
----
+# Zadanie: Efektywno-algorytm-w-eksperyment
 
-## Treść zadania
+## **Efektywność algorytmów - eksperyment**
 
 Zbadaj empirycznie (doświadczalnie) efektywność 3 klasycznych algorytmów sortowania:
 
@@ -26,7 +25,7 @@ Uwzględniając podane kryteria będziesz musiał wykonać 15 różnych pomiaró
 
 Utwórz projekt, który wykorzysta framework BenchmarkDotNet do przeprowadzenia eksperymentu. Zobacz: https://benchmarkdotnet.org/articles/overview.html
 
-**Podpowiedzi**
+## **Podpowiedzi**
   - Losowanie liczb: https://docs.microsoft.com/pl-pl/dotnet/api/system.random
   - Sortowanie tablic: https://docs.microsoft.com/pl-pl/dotnet/api/system.array.sort
   - Klonowanie tablic: https://docs.microsoft.com/pl-pl/dotnet/api/system.array.clone
@@ -34,14 +33,14 @@ Utwórz projekt, który wykorzysta framework BenchmarkDotNet do przeprowadzenia 
   - BenchmarkDotNet parametrization: https://benchmarkdotnet.org/articles/features/parameterization.html
   - BenchmarkDotNet prezentuje wyniki eksperymentu na konsoli oraz zapisuje je w formie plików CSV, markdown i html w podfolderze .\BenchmarkDotNet.Artifacts\results.
 
-**Proponowane kroki wykonania zadania**
+## **Proponowane kroki wykonania zadania**
 Utwórz w projekcie:
 
   - plik z klasą public static class Generators, w której umieścisz kod metod generujących dane testowe
   - plik z klasą public class SortingAlgorithms, w której umieścisz implementacje algorytmów sortujących. Algorytmy te adnotujesz atrybutem [Benchmark] z BenchmarkDotNet
 W klasie Program zaimplementujesz sam program wykonujący obliczenia i generujący raport.
 
-**Generatory tablic dla różnych wariantów**
+## **Generatory tablic dla różnych wariantów**
 Musisz napisać metody, które wygenerują dane dla eksperymentu. Zacznij od tablicy liczb losowych.
 
 ``` Csharp
