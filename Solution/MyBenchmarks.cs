@@ -54,8 +54,8 @@ public static class Generators
 }
 
 [MemoryDiagnoser]
-[CsvExporter]  // Wymusza generowanie pliku CSV dla Excela
-[HtmlExporter] // Wymusza generowanie pliku HTML dla ładnych screenów
+[CsvExporter]
+[HtmlExporter]
 public class SortingBenchmarks
 {
     [Params(10, 1000, 100000)]
