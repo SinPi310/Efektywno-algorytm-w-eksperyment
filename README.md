@@ -1,7 +1,5 @@
 # Zadanie: Efektywno-algorytm-w-eksperyment
 
-## **Efektywność algorytmów - eksperyment**
-
 Zbadaj empirycznie (doświadczalnie) efektywność 3 klasycznych algorytmów sortowania:
 
  - InsertionSort (zaimplementuj: https://www.geeksforgeeks.org/insertion-sort/)
