@@ -24,7 +24,5 @@ Przyjmij, że sortowane rosnąco będą tablice liczb całkowitych (typ `int`) s
 
 
 ## Wyniki pomiarów
-*(Wklejone tabele markdown wygenerowaną przez BenchmarkDotNet z folderu .\BenchmarkDotNet.Artifacts\results po uruchomieniu testów)*
 
 ## Wnioski
-*(Tutaj krótkie podsumowanie, np. który algorytm był najszybszy dla posortowanych danych, a który najgorzej radził sobie z dużą ilością danych)*
