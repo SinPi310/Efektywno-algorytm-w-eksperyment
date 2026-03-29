@@ -1,4 +1,4 @@
-# Zadanie: Efektywność algorytów - eksperyment
+# Efektywność algorytów - eksperyment
 
 Projekt to badanie empiryczne (doświadczalne) efektywności 3 klasycznych algorytmów sortowania:
 ## Badane algorytmy
@@ -24,5 +24,6 @@ Przyjmij, że sortowane rosnąco będą tablice liczb całkowitych (typ `int`) s
 
 
 ## Wyniki pomiarów
+* tablice q
 
 ## Wnioski
